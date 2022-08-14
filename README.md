@@ -1,4 +1,4 @@
-# Lesson 2
+# Lesson 1
 
 1. Go to [Remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.8+commit.dddeac2f.js/).
 2. Paste the code from `SimpleStorage.sol` into a new file in Remix
@@ -6,7 +6,7 @@
 4. Hit `Deploy`
 
 
-# Lesson 3
+# Lesson 2
 
 - Go to [Remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.8+commit.dddeac2f.js/).
 - Paste the code from `SimpleStorage.sol` into a new file in Remix
